@@ -1,0 +1,29 @@
+0 = libre
+1 = mur
+2 = maison droite
+3 = maison gauche
+4 = laboratoire
+5 = centrepokémon
+6 = shop
+7 = arène
+8 = eau
+9 = pokemonspawn
+x = jump a partir du haut
+F = jump a partir de la gauche
+o = sortir de la maison de gauche
+O = sortir de la maison de droite
+u = monter a l'étage de la maison de gauche
+U = monter a l'étage de la maison de droite
+d = sortir du haut de la maison de gauche
+D = sortir du haut de la maison de droite
+k = madame pokemon
+N = monter à l'étage du centre pokemon
+n = descendre de l'étage du centre pokemon
+p = sortir du magasin pokemon
+s = sortir du shop
+
+
+z {racaillou 8, racaillou 8};
+Z {racaillou 10, racaillou 10};
+y {racaillou 9, tarinor 9};
+Y {racaillou 12, racaillou 13, tarinor 15};
